@@ -1,2 +1,2 @@
 # Operating-Systems
-  This is an insignt into how I approach problems and code. Hopefully this is an adequate representation in how I understand memory allocation. 
+  This is an insignt into how I approach problems and code, especially into how I approach low-level systems problems.
